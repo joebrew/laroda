@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1600 700" width="1600" height="700">
+<rect width="1600" height="700" fill="#fff"/>
+<defs>
+<g id="r"><rect x="34" y="-3.5" width="46" height="7" rx="3.5" fill="#000"/><rect x="-80" y="-3.5" width="46" height="7" rx="3.5" fill="#000"/><path d="M-56 0H56" stroke="#000" stroke-width="4"/><path d="M42 -15V15" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<path d="M12 -13L42 -11M12 13L42 11" stroke="#000" stroke-width="7" stroke-linecap="round"/><ellipse cx="-8" cy="0" rx="34" ry="19" fill="#fff" stroke="#000" stroke-width="5"/>
+<path d="M-38 -8L-60 -10M-38 8L-60 10" stroke="#000" stroke-width="7" stroke-linecap="round"/><path d="M36 0Q36 -12 24 -12Q12 -12 -4 0Q12 12 24 12Q36 12 36 0Z" fill="#000"/></g>
+<g id="rb"><use xlink:href="#r"/><ellipse cx="-8" cy="0" rx="29" ry="14" fill="#000"/><path d="M-30 0H14" stroke="#fff" stroke-width="3"/><path d="M36 0Q36 -12 24 -12Q12 -12 -4 0Q12 12 24 12Q36 12 36 0Z" fill="#000"/></g>
+</defs>
+<path d="M40 84h40M120 84h40M200 84h40M280 84h40M360 84h40M440 84h40M520 84h40M600 84h40M680 84h40M760 84h40M840 84h40M920 84h40M1000 84h40M1080 84h40M1160 84h40M1240 84h40M1320 84h40M1400 84h40M1480 84h40M1560 84h40M0 106h40M80 106h40M160 106h40M240 106h40M320 106h40M400 106h40M480 106h40M560 106h40M640 106h40M720 106h40M800 106h40M880 106h40M960 106h40M1040 106h40M1120 106h40M1200 106h40M1280 106h40M1360 106h40M1440 106h40M1520 106h40M40 128h40M120 128h40M200 128h40M280 128h40M360 128h40M440 128h40M520 128h40M600 128h40M680 128h40M760 128h40M840 128h40M920 128h40M1000 128h40M1080 128h40M1160 128h40M1240 128h40M1320 128h40M1400 128h40M1480 128h40M1560 128h40M40 566h40M120 566h40M200 566h40M280 566h40M360 566h40M440 566h40M520 566h40M600 566h40M680 566h40M760 566h40M840 566h40M920 566h40M1000 566h40M1080 566h40M1160 566h40M1240 566h40M1320 566h40M1400 566h40M1480 566h40M1560 566h40M0 590h40M80 590h40M160 590h40M240 590h40M320 590h40M400 590h40M480 590h40M560 590h40M640 590h40M720 590h40M800 590h40M880 590h40M960 590h40M1040 590h40M1120 590h40M1200 590h40M1280 590h40M1360 590h40M1440 590h40M1520 590h40M40 614h40M120 614h40M200 614h40M280 614h40M360 614h40M440 614h40M520 614h40M600 614h40M680 614h40M760 614h40M840 614h40M920 614h40M1000 614h40M1080 614h40M1160 614h40M1240 614h40M1320 614h40M1400 614h40M1480 614h40M1560 614h40M0 638h40M80 638h40M160 638h40M240 638h40M320 638h40M400 638h40M480 638h40M560 638h40M640 638h40M720 638h40M800 638h40M880 638h40M960 638h40M1040 638h40M1120 638h40M1200 638h40M1280 638h40M1360 638h40M1440 638h40M1520 638h40M40 662h40M120 662h40M200 662h40M280 662h40M360 662h40M440 662h40M520 662h40M600 662h40M680 662h40M760 662h40M840 662h40M920 662h40M1000 662h40M1080 662h40M1160 662h40M1240 662h40M1320 662h40M1400 662h40M1480 662h40M1560 662h40M0 686h40M80 686h40M160 686h40M240 686h40M320 686h40M400 686h40M480 686h40M560 686h40M640 686h40M720 686h40M800 686h40M880 686h40M960 686h40M1040 686h40M1120 686h40M1200 686h40M1280 686h40M1360 686h40M1440 686h40M1520 686h40" stroke="#000" stroke-width="3"/>
+<path d="M0 160H1600M0 540H1600" stroke="#000" stroke-width="8"/><path d="M0 176H1600M0 524H1600" stroke="#000" stroke-width="2"/>
+<path d="M0 350H1600" stroke="#000" stroke-width="5" stroke-dasharray="44 36"/>
+<g fill="none" stroke="#000" stroke-width="3" stroke-linecap="round"><path d="M1420 350H1330Q1240 350 1150 300Q1000 210 820 200H120"/><path d="M1420 350H1330Q1240 350 1150 400Q1000 490 820 500H120"/><path d="M1460 300Q1300 290 1180 240Q1040 186 820 180H60" stroke-dasharray="14 12"/><path d="M1460 400Q1300 410 1180 460Q1040 514 820 520H60" stroke-dasharray="14 12"/></g>
+<g fill="none" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-dasharray="20 14"><path d="M220 350H60M250 322H130M250 378H130"/></g>
+<use xlink:href="#r" transform="translate(1250 350)"/>
+<use xlink:href="#rb" transform="translate(1095 314)"/>
+<use xlink:href="#r" transform="translate(1095 386)"/>
+<use xlink:href="#r" transform="translate(940 278)"/>
+<use xlink:href="#rb" transform="translate(940 350)"/>
+<use xlink:href="#r" transform="translate(940 422)"/>
+<use xlink:href="#rb" transform="translate(785 242)"/>
+<use xlink:href="#r" transform="translate(785 314)"/>
+<use xlink:href="#rb" transform="translate(785 386)"/>
+<use xlink:href="#r" transform="translate(785 458)"/>
+<use xlink:href="#r" transform="translate(630 278)"/>
+<use xlink:href="#rb" transform="translate(630 350)"/>
+<use xlink:href="#r" transform="translate(630 422)"/>
+<use xlink:href="#rb" transform="translate(475 314)"/>
+<use xlink:href="#r" transform="translate(475 386)"/>
+<use xlink:href="#r" transform="translate(320 350)"/>
+<path d="M24 64V24H64M1536 24H1576V64" fill="none" stroke="#000" stroke-width="3"/>
+</svg>

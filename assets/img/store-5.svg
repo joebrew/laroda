@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" width="1600" height="700">
+<rect width="1600" height="700" fill="#fff"/>
+<path d="M60 70Q800 150 1540 70" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+<path d="M74 79H126L100 129Z" fill="#fff" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M154 86H206L180 136Z" fill="#000" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M234 92H286L260 142Z" fill="#fff" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M314 97H366L340 147Z" fill="#000" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M394 101H446L420 151Z" fill="#fff" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M474 104H526L500 154Z" fill="#000" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M554 107H606L580 157Z" fill="#fff" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M634 109H686L660 159Z" fill="#000" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M714 110H766L740 160Z" fill="#fff" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M794 110H846L820 160Z" fill="#000" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M874 109H926L900 159Z" fill="#fff" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M954 108H1006L980 158Z" fill="#000" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1034 106H1086L1060 156Z" fill="#fff" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1114 103H1166L1140 153Z" fill="#000" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1194 99H1246L1220 149Z" fill="#fff" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1274 94H1326L1300 144Z" fill="#000" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1354 89H1406L1380 139Z" fill="#fff" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1434 83H1486L1460 133Z" fill="#000" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1080 330H1520" stroke="#000" stroke-width="10"/><path d="M1110 330L1130 370M1490 330L1470 370" stroke="#000" stroke-width="6"/>
+<path d="M1120 300V200Q1120 186 1136 186H1176V250L1230 266Q1244 272 1244 288V300Z" fill="#fff" stroke="#000" stroke-width="6" stroke-linejoin="round"/>
+<path d="M1176 206h-30M1176 226h-30M1180 252l-10 0" stroke="#000" stroke-width="4" stroke-linecap="round"/><rect x="1116" y="298" width="132" height="10" fill="#000"/>
+<circle cx="1142" cy="318" r="12" fill="#fff" stroke="#000" stroke-width="5"/><circle cx="1222" cy="318" r="12" fill="#fff" stroke="#000" stroke-width="5"/><path d="M1244 296q14 4 10 18" stroke="#000" stroke-width="6" fill="none"/>
+<path d="M1250 300V200Q1250 186 1266 186H1306V250L1360 266Q1374 272 1374 288V300Z" fill="#fff" stroke="#000" stroke-width="6" stroke-linejoin="round"/>
+<path d="M1306 206h-30M1306 226h-30M1310 252l-10 0" stroke="#000" stroke-width="4" stroke-linecap="round"/><rect x="1246" y="298" width="132" height="10" fill="#000"/>
+<circle cx="1272" cy="318" r="12" fill="#fff" stroke="#000" stroke-width="5"/><circle cx="1352" cy="318" r="12" fill="#fff" stroke="#000" stroke-width="5"/><path d="M1374 296q14 4 10 18" stroke="#000" stroke-width="6" fill="none"/>
+<path d="M1390 324Q1392 240 1450 238Q1508 240 1510 324Z" fill="#fff" stroke="#000" stroke-width="6"/><path d="M1414 270q36 -12 72 0M1404 298q46 -10 92 0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/><path d="M1400 324q50 14 100 0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+<path d="M1262 596L1336 390" stroke="#000" stroke-width="22" stroke-linecap="round"/><path d="M1269 577L1329 409" stroke="#fff" stroke-width="3" stroke-dasharray="14 10"/><path d="M1277 555L1260 549" stroke="#000" stroke-width="10"/><circle cx="1248" cy="559" r="11" fill="#fff" stroke="#000" stroke-width="5"/><circle cx="1257" cy="533" r="11" fill="#fff" stroke="#000" stroke-width="5"/><path d="M1321 431L1304 425" stroke="#000" stroke-width="10"/><circle cx="1292" cy="436" r="11" fill="#fff" stroke="#000" stroke-width="5"/><circle cx="1301" cy="409" r="11" fill="#fff" stroke="#000" stroke-width="5"/>
+<path d="M1330 572H1530Q1556 572 1562 552M1330 572Q1304 572 1298 552" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/><circle cx="1360" cy="588" r="11" fill="#fff" stroke="#000" stroke-width="5"/><circle cx="1500" cy="588" r="11" fill="#fff" stroke="#000" stroke-width="5"/>
+<circle cx="160" cy="546" r="54" fill="#fff" stroke="#000" stroke-width="6"/><circle cx="160" cy="546" r="43" fill="none" stroke="#000" stroke-width="2"/><circle cx="160" cy="546" r="6" fill="#000"/><circle cx="380" cy="546" r="54" fill="#fff" stroke="#000" stroke-width="6"/><circle cx="380" cy="546" r="43" fill="none" stroke="#000" stroke-width="2"/><circle cx="380" cy="546" r="6" fill="#000"/>
+<path d="M160 546L230 430H340L380 546M230 430L210 400M180 396H246M340 430L330 370Q326 352 344 350H374" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="11"/><path d="M372 344v14" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="14"/>
+<circle cx="500" cy="530" r="70" fill="#fff" stroke="#000" stroke-width="7"/><circle cx="500" cy="530" r="56" fill="none" stroke="#000" stroke-width="2"/><circle cx="500" cy="530" r="6" fill="#000"/><path d="M500 474V586M444 530H556M460 490L540 570M540 490L460 570" stroke="#000" stroke-width="1.5"/><circle cx="780" cy="530" r="70" fill="#fff" stroke="#000" stroke-width="7"/><circle cx="780" cy="530" r="56" fill="none" stroke="#000" stroke-width="2"/><circle cx="780" cy="530" r="6" fill="#000"/><path d="M780 474V586M724 530H836M740 490L820 570M820 490L740 570" stroke="#000" stroke-width="1.5"/>
+<path d="M500 530L622 536L592 410L740 402L754 440L622 536M500 530L592 410M754 440L780 530M592 410L584 384M556 380H612M740 402L746 372Q748 350 772 350H800" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+<circle cx="622" cy="536" r="20" fill="#fff" stroke="#000" stroke-width="6"/><path d="M622 536L640 580M630 580H654" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/><path d="M500 530L452 566" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/><circle cx="452" cy="580" r="20" fill="#fff" stroke="#000" stroke-width="5"/>
+<path d="M592 410L568 404" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+<path d="M900 566H1060Q1070 566 1072 556" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/><path d="M1062 560L1030 300M1000 300H1062" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="11"/><path d="M1000 300h-10M1062 300h12" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/>
+<circle cx="912" cy="580" r="18" fill="#fff" stroke="#000" stroke-width="6"/><circle cx="1066" cy="580" r="18" fill="#fff" stroke="#000" stroke-width="6"/><path d="M890 566l-14 0q-6 0 -6 10" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+<path d="M0 600H1600" stroke="#000" stroke-width="5"/>
+<rect y="624" width="1600" height="76" fill="#fff"/>
+<path d="M24 64V24H64M1536 24H1576V64" fill="none" stroke="#000" stroke-width="3"/>
+</svg>

@@ -14,7 +14,6 @@
 <path d="M600 330L700 430L620 560" fill="none" stroke="#000" stroke-width="30" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="680" cy="440" r="30" fill="#fff" stroke="#000" stroke-width="8"/><circle cx="620" cy="550" r="30" fill="#fff" stroke="#000" stroke-width="8"/>
 <circle cx="680" cy="440" r="8" fill="#000"/><circle cx="620" cy="550" r="8" fill="#000"/>
-<rect y="624" width="1600" height="76" fill="#fff"/><path d="M0 624H1600" stroke="#000" stroke-width="3"/>
-<g font-family="Courier New,monospace" font-size="22" fill="#000" letter-spacing="5"><text x="48" y="672">03 · TRANSMISSIÓ</text></g>
+<rect y="624" width="1600" height="76" fill="#fff"/>
 <path d="M24 64V24H64M1536 24H1576V64" fill="none" stroke="#000" stroke-width="3"/>
 </svg>

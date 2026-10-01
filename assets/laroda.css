@@ -11,7 +11,7 @@ a{color:var(--fg);text-underline-offset:4px}
 
 /* ticker */
 .ticker{border-bottom:1px solid var(--fg);overflow:hidden;white-space:nowrap;font-size:12px;letter-spacing:.3em;text-transform:uppercase;padding:8px 0}
-.ticker span{display:inline-block;padding-right:2em;animation:tick 28s linear infinite}
+.ticker span{display:inline-block;padding-right:2em;animation:tick 135s linear infinite}
 @keyframes tick{to{transform:translateX(-100%)}}
 
 /* header */

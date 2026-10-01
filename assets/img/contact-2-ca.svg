@@ -18,7 +18,7 @@
 <circle cx="736" cy="309" r="8" fill="#000" stroke="#fff" stroke-width="3"/>
 <text x="736" y="343" text-anchor="middle" font-family="Courier New,monospace" font-weight="bold" font-size="20" letter-spacing="3" fill="#000" stroke="#fff" stroke-width="7" stroke-linejoin="round" paint-order="stroke">MADRID</text>
 <circle cx="436" cy="431" r="8" fill="#000" stroke="#fff" stroke-width="3"/>
-<text x="418" y="438" text-anchor="end" font-family="Courier New,monospace" font-weight="bold" font-size="20" letter-spacing="3" fill="#000" stroke="#fff" stroke-width="7" stroke-linejoin="round" paint-order="stroke">LISBON</text>
+<text x="418" y="438" text-anchor="end" font-family="Courier New,monospace" font-weight="bold" font-size="20" letter-spacing="3" fill="#000" stroke="#fff" stroke-width="7" stroke-linejoin="round" paint-order="stroke">LISBOA</text>
 <circle cx="1061" cy="239" r="10" fill="#000" stroke="#fff" stroke-width="3"/><circle cx="1061" cy="239" r="15" fill="none" stroke="#000" stroke-width="3"/>
 <text x="1085" y="247" font-family="Courier New,monospace" font-weight="bold" font-size="20" letter-spacing="3" fill="#000" stroke="#fff" stroke-width="7" stroke-linejoin="round" paint-order="stroke">BARCELONA</text>
 <path d="M1018 229L1029 268" stroke="#000" stroke-width="3"/>
