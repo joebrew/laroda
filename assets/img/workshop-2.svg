@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" width="1600" height="700">
+<rect width="1600" height="700" fill="#fff"/>
+
+<path d="M520 600L800 320L1080 600" fill="none" stroke="#000" stroke-width="22" stroke-linejoin="round"/>
+<rect x="440" y="580" width="720" height="22" fill="#000"/>
+<circle cx="800" cy="320" r="225" fill="#fff" stroke="#000" stroke-width="14"/><circle cx="800" cy="320" r="205" fill="none" stroke="#000" stroke-width="5"/>
+<g stroke="#000" stroke-width="2.5"><path d="M818 320L999 370"/><path d="M817 327L966 440"/><path d="M813 333L909 494"/><path d="M807 336L836 522"/><path d="M801 338L757 521"/><path d="M794 337L685 490"/><path d="M788 333L630 435"/><path d="M784 328L599 363"/><path d="M782 321L598 284"/><path d="M783 314L626 211"/><path d="M786 308L680 154"/><path d="M792 304L750 121"/><path d="M798 302L829 117"/><path d="M805 303L902 142"/><path d="M811 306L962 194"/><path d="M816 311L997 263"/><path d="M818 317L1004 341"/></g>
+<circle cx="800" cy="320" r="28" fill="#000"/>
+<rect x="1030" y="300" width="40" height="40" fill="#000"/><path d="M1070 320H1230" stroke="#000" stroke-width="10"/>
+<path d="M1300 282V600M1250 600H1350" stroke="#000" stroke-width="12"/>
+<circle cx="1300" cy="200" r="88" fill="#fff" stroke="#000" stroke-width="10"/>
+<g stroke="#000" stroke-width="4"><path d="M1370 200L1382 200"/><path d="M1366 224L1377 228"/><path d="M1354 245L1363 253"/><path d="M1335 261L1341 271"/><path d="M1312 269L1314 281"/><path d="M1288 269L1286 281"/><path d="M1265 261L1259 271"/><path d="M1246 245L1237 253"/><path d="M1234 224L1223 228"/><path d="M1230 200L1218 200"/><path d="M1234 176L1223 172"/><path d="M1246 155L1237 147"/><path d="M1265 139L1259 129"/><path d="M1288 131L1286 119"/><path d="M1312 131L1314 119"/><path d="M1335 139L1341 129"/><path d="M1354 155L1363 147"/><path d="M1366 176L1377 172"/></g>
+<path d="M1300 200L1350 158" stroke="#000" stroke-width="6" stroke-linecap="round"/><circle cx="1300" cy="200" r="9" fill="#000"/>
+<path d="M140 470L330 420" stroke="#000" stroke-width="16" stroke-linecap="round"/><circle cx="345" cy="416" r="22" fill="none" stroke="#000" stroke-width="10"/>
+<path d="M0 602H1600" stroke="#000" stroke-width="5"/>
+<rect y="624" width="1600" height="76" fill="#fff"/><path d="M0 624H1600" stroke="#000" stroke-width="3"/>
+<g font-family="Courier New,monospace" font-size="22" fill="#000" letter-spacing="5"><text x="48" y="672">02 · CENTRAT DE RODA</text></g>
+<path d="M24 64V24H64M1536 24H1576V64" fill="none" stroke="#000" stroke-width="3"/>
+</svg>

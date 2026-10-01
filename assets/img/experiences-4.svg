@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" width="1600" height="700">
+<rect width="1600" height="700" fill="#fff"/>
+
+<path d="M560 420L760 250L860 330L1000 170L1120 300L1240 210L1390 340L1480 280L1600 360V420Z" fill="#fff" stroke="#000" stroke-width="4" stroke-linejoin="round"/>
+<path d="M960 216L1000 170L1040 216L1020 206L1000 226L980 206ZM1210 236L1240 210L1270 236L1255 230L1240 244L1225 230Z" fill="#000"/>
+<path d="M500 420H1600" stroke="#000" stroke-width="3"/>
+<g stroke="#000" stroke-width="3"><path d="M640 470q20 -10 40 0t40 0t40 0" fill="none"/><path d="M900 500q20 -10 40 0t40 0t40 0" fill="none"/><path d="M1180 470q20 -10 40 0t40 0t40 0" fill="none"/><path d="M760 540q20 -10 40 0t40 0t40 0" fill="none"/><path d="M1080 570q20 -10 40 0t40 0t40 0" fill="none"/><path d="M1360 530q20 -10 40 0t40 0t40 0" fill="none"/><path d="M1460 590q20 -10 40 0t40 0t40 0" fill="none"/><path d="M600 600q20 -10 40 0t40 0t40 0" fill="none"/></g>
+<path d="M1230 480L1230 360L1300 480Z M1222 360V492" fill="#000" stroke="#000" stroke-width="4"/>
+<path d="M1180 492H1320L1300 512H1200Z" fill="#000"/>
+<path d="M0 380L330 372Q470 380 520 470L560 620H0Z" fill="#000"/>
+<path d="M0 384L330 376" stroke="#fff" stroke-width="3" stroke-dasharray="22 16"/>
+<path d="M400 372Q385 280 420 190" fill="none" stroke="#000" stroke-width="14" stroke-linecap="round"/>
+<path d="M300 190Q340 120 430 130Q540 120 560 185Q480 210 300 190Z" fill="#000"/>
+<g transform="translate(130 330) scale(0.62)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="70" fill="#fff" stroke-width="7"/><circle cx="0" cy="0" r="59" stroke-width="2"/><g stroke-width="1.5"><path d="M0 0m0 58l0 -116"/><path d="M0 0m58 0l-116 0"/><path d="M0 0m41 41l-82 -82"/><path d="M0 0m41 -41l-82 82"/></g><circle cx="230" cy="0" r="70" fill="#fff" stroke-width="7"/><circle cx="230" cy="0" r="59" stroke-width="2"/><g stroke-width="1.5"><path d="M230 0m0 58l0 -116"/><path d="M230 0m58 0l-116 0"/><path d="M230 0m41 41l-82 -82"/><path d="M230 0m41 -41l-82 82"/></g><path d="M0 0L95 10L70 -95L200 -100L205 -75L95 10M0 0L70 -95M205 -75L230 0" stroke-width="6"/><path d="M70 -95L65 -112" stroke-width="6"/><path d="M48 -114H88" stroke-width="8"/><path d="M200 -100L218 -108h12q16 0 16 18q0 16 -14 16" stroke-width="6"/><circle cx="95" cy="10" r="14" stroke-width="4"/><path d="M80 -82L188 -88L102 -8Z" fill="#000" stroke-width="3"/><path d="M62 -108L-15 -124Q-32 -112 -15 -98L58 -92Z" fill="#000" stroke-width="3"/><circle cx="230" cy="-94" r="20" fill="#000" stroke="none"/><circle cx="230" cy="-94" r="9" stroke="#fff" stroke-width="3"/><path d="M78 -118L125 -48L78 -5" stroke="#fff" stroke-width="19"/><path d="M78 -118L125 -48L78 -5" stroke-width="11"/><path d="M78 -118L148 -68L117 28" stroke="#fff" stroke-width="19"/><path d="M78 -118L148 -68L117 28" stroke-width="11"/><path d="M78 -118L168 -172" stroke="#fff" stroke-width="26"/><path d="M78 -118L168 -172" stroke-width="18"/><path d="M168 -172L198 -138L232 -110" stroke="#fff" stroke-width="17"/><path d="M168 -172L198 -138L232 -110" stroke-width="9"/><circle cx="192" cy="-198" r="19" fill="#000" stroke="#fff" stroke-width="4"/><path d="M171 -200A22 22 0 0 1 214 -204L222 -198" stroke-width="6"/></g>
+<rect y="624" width="1600" height="76" fill="#fff"/><path d="M0 624H1600" stroke="#000" stroke-width="3"/>
+<g font-family="Courier New,monospace" font-size="22" fill="#000" letter-spacing="5"><text x="48" y="672">04 · COSTA BRAVA</text></g>
+<path d="M24 64V24H64M1536 24H1576V64" fill="none" stroke="#000" stroke-width="3"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" width="1600" height="700">
+<rect width="1600" height="700" fill="#fff"/>
+
+<rect x="620" y="60" width="360" height="560" rx="44" fill="#fff" stroke="#000" stroke-width="10"/>
+<path d="M760 90H840" stroke="#000" stroke-width="8" stroke-linecap="round"/>
+<path d="M650 170H950" stroke="#000" stroke-width="3"/>
+<circle cx="680" cy="140" r="16" fill="#000"/><text x="710" y="148" font-family="Courier New,monospace" font-weight="bold" font-size="20" fill="#000">LA RODA</text>
+<path d="M650 200H900V300H680L650 320Z" fill="#fff" stroke="#000" stroke-width="4"/>
+<g font-family="Courier New,monospace" font-size="19" fill="#000"><text x="668" y="236">Hola! Is the</text><text x="668" y="262">workshop open</text><text x="668" y="288">on Saturday?</text></g>
+<path d="M710 340H950V440L920 420H710Z" fill="#000"/>
+<g font-family="Courier New,monospace" font-size="19" fill="#fff"><text x="728" y="376">Sí! 10:00–14:00.</text><text x="728" y="402">See you then ✦</text></g>
+<path d="M650 460H900V520H680L650 540Z" fill="#fff" stroke="#000" stroke-width="4"/>
+<text x="668" y="497" font-family="Courier New,monospace" font-size="19" fill="#000">Perfecte, gràcies!</text>
+<rect x="160" y="230" width="300" height="200" fill="#fff" stroke="#000" stroke-width="10"/>
+<path d="M160 230L310 350L460 230M160 430L270 330M460 430L350 330" fill="none" stroke="#000" stroke-width="8" stroke-linejoin="round"/>
+<rect x="1150" y="230" width="280" height="200" rx="26" fill="#fff" stroke="#000" stroke-width="10"/>
+<path d="M1220 230L1240 195H1340L1360 230" fill="#000"/>
+<circle cx="1290" cy="330" r="62" fill="none" stroke="#000" stroke-width="10"/><circle cx="1290" cy="330" r="30" fill="#000"/>
+<circle cx="1390" cy="265" r="10" fill="#000"/>
+<rect y="624" width="1600" height="76" fill="#fff"/><path d="M0 624H1600" stroke="#000" stroke-width="3"/>
+<g font-family="Courier New,monospace" font-size="22" fill="#000" letter-spacing="5"><text x="48" y="672">03 · ESCRIU-NOS</text></g>
+<path d="M24 64V24H64M1536 24H1576V64" fill="none" stroke="#000" stroke-width="3"/>
+</svg>

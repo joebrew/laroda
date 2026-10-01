@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" width="1600" height="700">
+<rect width="1600" height="700" fill="#fff"/>
+
+<rect x="110" y="110" width="420" height="140" rx="70" fill="#000"/>
+<path d="M200 96V264M440 96V264" stroke="#fff" stroke-width="12"/><path d="M200 96V110M440 96V110M200 250V264M440 250V264" stroke="#000" stroke-width="12"/>
+<circle cx="180" cy="180" r="34" fill="none" stroke="#fff" stroke-width="4"/>
+<path d="M620 140L960 112Q1030 180 960 252L620 228Q600 184 620 140Z" fill="#000"/>
+<path d="M700 130V240M790 124V246" stroke="#fff" stroke-width="10"/><rect x="890" y="160" width="40" height="40" fill="none" stroke="#fff" stroke-width="4"/>
+<path d="M1090 110L1490 130L1190 330Z" fill="#fff" stroke="#000" stroke-width="10" stroke-linejoin="round"/>
+<path d="M1130 130L1440 145L1200 296" fill="none" stroke="#000" stroke-width="3" stroke-dasharray="8 6"/>
+<path d="M120 590L340 340L560 590Z" fill="#fff" stroke="#000" stroke-width="8" stroke-linejoin="round"/>
+<path d="M340 340L290 590H390Z" fill="#000"/><path d="M340 340V300M120 590L60 600M560 590L620 600" stroke="#000" stroke-width="4"/>
+<rect x="680" y="420" width="330" height="140" rx="70" fill="#fff" stroke="#000" stroke-width="8"/>
+<circle cx="940" cy="490" r="50" fill="none" stroke="#000" stroke-width="4"/><circle cx="940" cy="490" r="28" fill="none" stroke="#000" stroke-width="4"/><circle cx="940" cy="490" r="8" fill="#000"/>
+<path d="M760 420V560M840 420V560" stroke="#000" stroke-width="10"/>
+<rect x="1110" y="410" width="170" height="150" fill="#fff" stroke="#000" stroke-width="8"/>
+<path d="M1100 410H1290M1180 410V385H1210V410M1280 450H1330" stroke="#000" stroke-width="8" stroke-linecap="round"/>
+<circle cx="1440" cy="490" r="52" fill="none" stroke="#000" stroke-width="8"/><circle cx="1440" cy="490" r="20" fill="#000"/>
+<path d="M1388 490H1300M1492 490H1560" stroke="#000" stroke-width="6" stroke-dasharray="14 8"/>
+<rect y="624" width="1600" height="76" fill="#fff"/><path d="M0 624H1600" stroke="#000" stroke-width="3"/>
+<g font-family="Courier New,monospace" font-size="22" fill="#000" letter-spacing="5"><text x="48" y="672">03 · BIKEPACKING</text></g>
+<path d="M24 64V24H64M1536 24H1576V64" fill="none" stroke="#000" stroke-width="3"/>
+</svg>

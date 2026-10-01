@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" width="1600" height="700">
+<rect width="1600" height="700" fill="#fff"/>
+
+<circle cx="520" cy="300" r="200" fill="#fff" stroke="#000" stroke-width="8"/>
+<g stroke="#000" stroke-width="8" stroke-dasharray="6 9"><circle cx="520" cy="300" r="200" fill="none"/><circle cx="520" cy="300" r="160" fill="none"/></g>
+<circle cx="520" cy="300" r="60" fill="none" stroke="#000" stroke-width="3"/><circle cx="520" cy="300" r="73" fill="none" stroke="#000" stroke-width="6"/><circle cx="520" cy="300" r="86" fill="none" stroke="#000" stroke-width="3"/><circle cx="520" cy="300" r="99" fill="none" stroke="#000" stroke-width="6"/><circle cx="520" cy="300" r="112" fill="none" stroke="#000" stroke-width="3"/><circle cx="520" cy="300" r="125" fill="none" stroke="#000" stroke-width="6"/><circle cx="520" cy="300" r="138" fill="none" stroke="#000" stroke-width="3"/><circle cx="520" cy="300" r="151" fill="none" stroke="#000" stroke-width="6"/><circle cx="520" cy="300" r="164" fill="none" stroke="#000" stroke-width="3"/><circle cx="520" cy="300" r="177" fill="none" stroke="#000" stroke-width="6"/><circle cx="520" cy="300" r="190" fill="none" stroke="#000" stroke-width="3"/><circle cx="520" cy="300" r="40" fill="#000"/><circle cx="520" cy="300" r="14" fill="#fff"/>
+<circle cx="1480" cy="330" r="270" fill="#fff" stroke="#000" stroke-width="10"/>
+<g stroke="#000" stroke-width="10"><path d="M1480 600L1480 620"/><path d="M1452 599L1450 618"/><path d="M1424 594L1420 614"/><path d="M1397 587L1390 606"/><path d="M1370 577L1362 595"/><path d="M1345 564L1335 581"/><path d="M1321 548L1310 565"/><path d="M1299 531L1286 546"/><path d="M1279 511L1264 524"/><path d="M1262 489L1245 500"/><path d="M1246 465L1229 475"/><path d="M1233 440L1215 448"/><path d="M1223 413L1204 420"/><path d="M1216 386L1196 390"/><path d="M1211 358L1192 360"/><path d="M1210 330L1190 330"/><path d="M1211 302L1192 300"/><path d="M1216 274L1196 270"/><path d="M1223 247L1204 240"/><path d="M1233 220L1215 212"/><path d="M1246 195L1229 185"/><path d="M1262 171L1245 160"/><path d="M1279 149L1264 136"/><path d="M1299 129L1286 114"/><path d="M1321 112L1310 95"/><path d="M1345 96L1335 79"/><path d="M1370 83L1362 65"/><path d="M1397 73L1390 54"/><path d="M1424 66L1420 46"/><path d="M1452 61L1450 42"/><path d="M1480 60L1480 40"/></g>
+<circle cx="1480" cy="330" r="200" fill="none" stroke="#000" stroke-width="4"/>
+<path d="M520 100L1480 60" fill="none" stroke="#000" stroke-width="22"/>
+<path d="M520 100L1480 60" fill="none" stroke="#fff" stroke-width="8" stroke-dasharray="14 10"/>
+<path d="M720 300Q760 420 640 470L600 560Q640 600 1480 600" fill="none" stroke="#000" stroke-width="22"/>
+<path d="M720 300Q760 420 640 470L600 560Q640 600 1480 600" fill="none" stroke="#fff" stroke-width="8" stroke-dasharray="14 10"/>
+<path d="M600 330L700 430L620 560" fill="none" stroke="#000" stroke-width="30" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="680" cy="440" r="30" fill="#fff" stroke="#000" stroke-width="8"/><circle cx="620" cy="550" r="30" fill="#fff" stroke="#000" stroke-width="8"/>
+<circle cx="680" cy="440" r="8" fill="#000"/><circle cx="620" cy="550" r="8" fill="#000"/>
+<rect y="624" width="1600" height="76" fill="#fff"/><path d="M0 624H1600" stroke="#000" stroke-width="3"/>
+<g font-family="Courier New,monospace" font-size="22" fill="#000" letter-spacing="5"><text x="48" y="672">03 · TRANSMISSIÓ</text></g>
+<path d="M24 64V24H64M1536 24H1576V64" fill="none" stroke="#000" stroke-width="3"/>
+</svg>

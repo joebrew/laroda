@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" width="1600" height="700">
+<rect width="1600" height="700" fill="#fff"/>
+
+<path d="M700 0V90" stroke="#000" stroke-width="4"/><path d="M640 140L670 90H730L760 140Z" fill="#000"/>
+<g stroke="#000" stroke-width="2" stroke-dasharray="6 10"><path d="M660 150L560 380M700 150V380M740 150L840 380"/></g>
+<path d="M1080 110V130" stroke="#000" stroke-width="6"/><circle cx="1080" cy="230" r="98" fill="none" stroke="#000" stroke-width="18"/><circle cx="1080" cy="230" r="80" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="4 8"/><path d="M1320 110V130" stroke="#000" stroke-width="6"/><circle cx="1320" cy="230" r="98" fill="none" stroke="#000" stroke-width="18"/><circle cx="1320" cy="230" r="80" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="4 8"/>
+<rect x="100" y="400" width="1100" height="30" fill="#000"/>
+<path d="M140 430V600M1160 430V600M140 540H1160" stroke="#000" stroke-width="14"/>
+<rect x="170" y="330" width="150" height="70" fill="#000"/><rect x="200" y="300" width="40" height="30" fill="#000"/><rect x="260" y="300" width="40" height="30" fill="#000"/>
+<path d="M320 350H380M380 330V370" stroke="#000" stroke-width="10" stroke-linecap="round"/>
+<path d="M560 400V320Q560 300 600 300Q640 300 640 320V400Z" fill="#fff" stroke="#000" stroke-width="8"/>
+<path d="M630 315L760 230" stroke="#000" stroke-width="8" stroke-linecap="round"/><path d="M560 330Q520 340 540 380" fill="none" stroke="#000" stroke-width="8"/>
+<rect x="830" y="350" width="90" height="50" fill="#000"/><rect x="822" y="340" width="106" height="14" fill="#000"/>
+<path d="M960 400Q1000 370 1060 395Q1100 380 1130 400" fill="#000"/>
+<path d="M1420 600V320M1380 600H1460M1385 320H1455" stroke="#000" stroke-width="14" stroke-linecap="round"/>
+<rect x="1400" y="430" width="40" height="150" fill="#000"/><circle cx="1420" cy="390" r="24" fill="#fff" stroke="#000" stroke-width="6"/>
+<path d="M1440 560Q1520 560 1520 450Q1520 370 1475 340" fill="none" stroke="#000" stroke-width="6"/>
+<path d="M0 602H1600" stroke="#000" stroke-width="5"/>
+<rect y="624" width="1600" height="76" fill="#fff"/><path d="M0 624H1600" stroke="#000" stroke-width="3"/>
+<g font-family="Courier New,monospace" font-size="22" fill="#000" letter-spacing="5"><text x="48" y="672">04 · EL BANC</text></g>
+<path d="M24 64V24H64M1536 24H1576V64" fill="none" stroke="#000" stroke-width="3"/>
+</svg>

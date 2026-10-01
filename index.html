@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>La Roda</title>
+<link rel="alternate" hreflang="ca" href="ca/index.html">
+<link rel="alternate" hreflang="en" href="en/index.html">
+<link rel="alternate" hreflang="x-default" href="index.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/laroda.css">
+<script>
+(function(){
+  var l;
+  try{l=localStorage.getItem('laroda-lang')}catch(e){}
+  if(l!=='ca'&&l!=='en'){
+    var prefs=navigator.languages||[navigator.language||''];
+    l=prefs.some(function(x){return /^(ca|es|oc)\b/i.test(x)})?'ca':'en';
+  }
+  location.replace(l+'/index.html');
+})();
+</script>
+</head>
+<body>
+<header><div class="wrap">
+<h1 class="display">La Roda</h1>
+<div class="stripes" aria-hidden="true"><i></i><i></i><i></i></div>
+</div></header>
+<div class="wrap"><nav class="menu" aria-label="Idioma / Language">
+<a href="ca/index.html" hreflang="ca" lang="ca" data-lang="ca">Català</a><a href="en/index.html" hreflang="en" lang="en" data-lang="en">English</a>
+</nav></div>
+<script src="assets/laroda.js"></script>
+</body>
+</html>

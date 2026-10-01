@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" width="1600" height="700">
+<rect width="1600" height="700" fill="#fff"/>
+
+<circle cx="260" cy="170" r="70" fill="#000"/>
+<path d="M0 390Q400 330 800 380T1600 370" fill="none" stroke="#000" stroke-width="4"/>
+<defs><clipPath id="v"><path d="M0 392Q400 332 800 382T1600 372V600H0Z"/></clipPath></defs>
+<g clip-path="url(#v)" stroke="#000" stroke-width="5" stroke-dasharray="2 14" stroke-linecap="round"><path d="M800 380L-1400 600"/><path d="M800 380L-1140 600"/><path d="M800 380L-880 600"/><path d="M800 380L-620 600"/><path d="M800 380L-360 600"/><path d="M800 380L-100 600"/><path d="M800 380L160 600"/><path d="M800 380L420 600"/><path d="M800 380L680 600"/><path d="M800 380L940 600"/><path d="M800 380L1200 600"/><path d="M800 380L1460 600"/><path d="M800 380L1720 600"/><path d="M800 380L1980 600"/><path d="M800 380L2240 600"/><path d="M800 380L2500 600"/><path d="M800 380L2760 600"/><path d="M800 380L3020 600"/></g>
+<g clip-path="url(#v)" stroke="#000" stroke-width="2"><path d="M800 380L-1400 600"/><path d="M800 380L-1140 600"/><path d="M800 380L-880 600"/><path d="M800 380L-620 600"/><path d="M800 380L-360 600"/><path d="M800 380L-100 600"/><path d="M800 380L160 600"/><path d="M800 380L420 600"/><path d="M800 380L680 600"/><path d="M800 380L940 600"/><path d="M800 380L1200 600"/><path d="M800 380L1460 600"/><path d="M800 380L1720 600"/><path d="M800 380L1980 600"/><path d="M800 380L2240 600"/><path d="M800 380L2500 600"/><path d="M800 380L2760 600"/><path d="M800 380L3020 600"/></g>
+<g transform="translate(760 528) scale(1.0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="70" fill="#fff" stroke-width="7"/><circle cx="0" cy="0" r="59" stroke-width="2"/><g stroke-width="1.5"><path d="M0 0m0 58l0 -116"/><path d="M0 0m58 0l-116 0"/><path d="M0 0m41 41l-82 -82"/><path d="M0 0m41 -41l-82 82"/></g><circle cx="230" cy="0" r="70" fill="#fff" stroke-width="7"/><circle cx="230" cy="0" r="59" stroke-width="2"/><g stroke-width="1.5"><path d="M230 0m0 58l0 -116"/><path d="M230 0m58 0l-116 0"/><path d="M230 0m41 41l-82 -82"/><path d="M230 0m41 -41l-82 82"/></g><path d="M0 0L95 10L70 -95L200 -100L205 -75L95 10M0 0L70 -95M205 -75L230 0" stroke-width="6"/><path d="M70 -95L65 -112" stroke-width="6"/><path d="M48 -114H88" stroke-width="8"/><path d="M200 -100L218 -108h12q16 0 16 18q0 16 -14 16" stroke-width="6"/><circle cx="95" cy="10" r="14" stroke-width="4"/></g>
+<path d="M1080 360Q1040 480 1080 600H1320Q1360 480 1320 360Z" fill="#fff" stroke="#000" stroke-width="7"/>
+<g stroke="#000" stroke-width="2"><path d="M1110 362V598"/><path d="M1148 362V598"/><path d="M1186 362V598"/><path d="M1224 362V598"/><path d="M1262 362V598"/></g>
+<g fill="none" stroke="#000" stroke-width="10"><path d="M1066 405H1334M1060 555H1340"/></g>
+<path d="M1130 360V240Q1130 222 1143 214V160H1157V214Q1170 222 1170 240V360Z" fill="#000"/>
+<rect x="1134" y="270" width="32" height="44" fill="#fff"/>
+<path d="M1215 270Q1213 330 1245 332Q1277 330 1275 270Z" fill="#fff" stroke="#000" stroke-width="5"/>
+<path d="M1218 300Q1222 328 1245 329Q1270 328 1272 300Z" fill="#000"/>
+<path d="M1245 332V356M1222 358H1268" stroke="#000" stroke-width="6" stroke-linecap="round"/>
+<path d="M0 600H1600" stroke="#000" stroke-width="5"/>
+<rect y="624" width="1600" height="76" fill="#fff"/><path d="M0 624H1600" stroke="#000" stroke-width="3"/>
+<g font-family="Courier New,monospace" font-size="22" fill="#000" letter-spacing="5"><text x="48" y="672">03 · RUTA DEL VI</text></g>
+<path d="M24 64V24H64M1536 24H1576V64" fill="none" stroke="#000" stroke-width="3"/>
+</svg>
