@@ -8,7 +8,6 @@
 <path d="M745 230V150A55 55 0 0 1 855 150V230Z" fill="#000"/>
 <circle cx="800" cy="152" r="13" fill="#fff"/><path d="M786 230L790 172H810L814 230Z" fill="#fff"/>
 <rect x="680" y="56" width="240" height="36" fill="#fff" stroke="#000" stroke-width="5"/>
-<text x="800" y="84" text-anchor="middle" font-family="Anton,Impact,Arial Narrow,sans-serif" font-size="28" letter-spacing="10" fill="#000">1623</text>
 <path d="M690 56L800 26L910 56Z" fill="#000"/>
 <path d="M588 150H652V190Q652 222 620 236Q588 222 588 190Z" fill="#fff" stroke="#000" stroke-width="5"/><path d="M588 186H652M620 150V236" stroke="#000" stroke-width="3"/><path d="M948 150H1012V190Q1012 222 980 236Q948 222 948 190Z" fill="#fff" stroke="#000" stroke-width="5"/><path d="M948 186H1012M980 150V236" stroke="#000" stroke-width="3"/>
 <path d="M360 400H1240" stroke="#000" stroke-width="5"/>
