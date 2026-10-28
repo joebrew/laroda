@@ -1,3 +1,6 @@
+@font-face{font-family:Anton;font-style:normal;font-weight:400;font-display:swap;src:url(fonts/anton-400.woff2) format("woff2")}
+@font-face{font-family:"Space Mono";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/space-mono-400.woff2) format("woff2")}
+@font-face{font-family:"Space Mono";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/space-mono-700.woff2) format("woff2")}
 :root{--bg:#fff;--fg:#000;--dim:#5e5e5e;color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 html{scroll-padding-top:env(safe-area-inset-top,0px);scroll-behavior:smooth}
 *,*::before,*::after{box-sizing:inherit}
@@ -46,6 +49,8 @@ h1.sub{font-size:clamp(56px,13vw,170px)}
 .dots button{width:28px;height:8px;border:1px solid var(--fg);background:transparent;padding:0;cursor:pointer}
 .dots button[aria-current="true"]{background:var(--fg)}
 .dots button:focus-visible{outline:2px solid var(--fg);outline-offset:3px}
+.pause{margin-right:auto;background:transparent;color:var(--fg);border:1px solid var(--fg);padding:2px 10px;font:inherit;letter-spacing:inherit;text-transform:inherit;cursor:pointer}
+.pause:hover,.pause:focus-visible{background:var(--fg);color:var(--bg);outline:none}
 
 /* sub-page intro */
 .intro{display:grid;grid-template-columns:1fr 1fr;gap:24px 48px;margin-bottom:56px}
@@ -105,7 +110,19 @@ a.map:hover,a.map:focus-visible{background:var(--fg);color:var(--bg);outline:non
 
 /* language selector */
 .langbar{border-bottom:1px solid var(--fg);font-size:12px;letter-spacing:.2em;text-transform:uppercase}
-.langbar nav{display:flex;justify-content:flex-end;gap:4px;padding-block:6px}
+.langbar .wrap{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:4px 16px;padding-block:6px}
+.langbar .notice{margin:0;background:var(--fg);color:var(--bg);padding:4px 10px;font-weight:700;letter-spacing:.12em}
+.langbar nav{display:flex;gap:4px;margin-left:auto}
+@media (max-width:640px){.langbar .notice{font-size:11px;letter-spacing:.04em}}
 .langbar a{color:var(--fg);text-decoration:none;padding:4px 10px;border:1px solid transparent;font-weight:700}
 .langbar a:hover,.langbar a:focus-visible{border-color:var(--fg);outline:none}
 .langbar a[aria-current="page"]{background:var(--fg);color:var(--bg)}
+
+/* long-form text (legal) */
+.prose{max-width:66ch;margin:24px 0 64px}
+.prose h2{margin:48px 0 16px;font-size:clamp(32px,5vw,52px)}
+.prose h2:first-child{margin-top:0}
+.prose h3{margin:28px 0 8px;font-size:13px;letter-spacing:.2em;text-transform:uppercase}
+.prose p{margin:0 0 14px}
+.prose .rows{margin-bottom:24px}
+.prose .rows li span:last-child{text-align:right}
